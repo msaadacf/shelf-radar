@@ -18,7 +18,7 @@ Extract book titles from a bookshelf photo using an open source vision language 
 pip install -r requirements.txt
 python -m bookshelf_recommender.cli --image assets/sample_bookshelf.jpg --prefs "literary fiction, Paris, slow-paced, character-driven" --topn 3
 ```
-Alternatively, you can open the notebook and run it online in Google Colab to try the results. I initially created the project on the notebook, and then created a better, highly modular version in .py files.   
+Alternatively, you can open the notebook and run it online in Google Colab to try the results. I initially created the project on the notebook, and then created a better, highly modular version in `.py` files.   
 
 ## How to include the sample bookshelf image
 - Put one image in the `assets/` folder (keep it reasonably sized, e.g., < 2–5 MB).
