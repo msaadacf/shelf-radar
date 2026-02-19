@@ -27,8 +27,8 @@ A trained recommender needs user item interaction logs (ratings, clicks, dwell t
 ## Run
 ```bash
 pip install -r requirements.txt
-python -m bookshelf_recommender.cli --image assets/sample_bookshelf.jpg --prefs "literary fiction, Paris, slow-paced, character-driven" --topn 5
-
+python -m bookshelf_recommender.cli --image assets/sample_bookshelf.jpg --prefs "literary fiction, Paris, slow-paced, character-driven" --topn 3
+```
 ## How to include the sample bookshelf image
 - Put one image in the `assets/` folder (keep it reasonably sized, e.g., < 2–5 MB).
 - If the image is large, git will still handle it; avoid multiple huge images.
@@ -39,6 +39,7 @@ Keep `notebooks/demo.ipynb` as a thin wrapper:
 - one cell that calls the pipeline functions,
 - one cell that prints results.
 The `.py` package remains the canonical implementation.
+
 
 
 
