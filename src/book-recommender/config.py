@@ -8,3 +8,4 @@ class AppConfig:
     google_max_results: int = 5
     match_threshold: int = 70
     top_n: int = 3
+ 
