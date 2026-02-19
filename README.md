@@ -27,7 +27,7 @@ Keep `notebooks/demo.ipynb` as a thin wrapper:
 - one cell that calls the pipeline functions,
 - one cell that prints results.
 The `.py` package remains the canonical implementation.
-::contentReference[oaicite:0]{index=0}
+
 
 
 
