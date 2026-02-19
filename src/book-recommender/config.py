@@ -7,4 +7,4 @@ class AppConfig:
     max_new_tokens: int = 600
     google_max_results: int = 5
     match_threshold: int = 70
-    top_n: int = 5
+    top_n: int = 3
