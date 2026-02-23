@@ -1,7 +1,7 @@
 # shelf-radar
 The idea behind this demo project is to measure feasibility of a larger project I will be doing in near future. This demo project takes an image (of a book table or shelf) as input and your book preferences, and then returns the books that you are going to love reading 📔
 
-<img width="707" height="352" alt="image" src="https://github.com/user-attachments/assets/8a0e2e15-a1c2-4809-954e-e02616e9135a" />
+<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/8a0e2e15-a1c2-4809-954e-e02616e9135a" />
 
 
 ## Goal
