@@ -1,4 +1,8 @@
 # shelf-radar
+The idea behind this demo project is to measure feasibility of a larger project I will be doing in near future. This demo project takes an image (of a book table or shelf) as input and your book preferences, and then returns the books that you are going to love reading 📔
+
+<img width="707" height="352" alt="image" src="https://github.com/user-attachments/assets/8a0e2e15-a1c2-4809-954e-e02616e9135a" />
+
 
 ## Goal
 Extract book titles from a bookshelf photo using an open source vision language model, resolve them to canonical metadata using Google Books, then rank the detected books against a user’s text reading preferences using embedding similarity.
